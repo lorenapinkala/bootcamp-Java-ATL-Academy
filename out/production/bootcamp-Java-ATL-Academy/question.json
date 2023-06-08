@@ -1,0 +1,68 @@
+[
+  {
+    "category": "Cultura",
+    "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
+    "options": [
+      "Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante",
+      "Cerveza, lima/limón y limon",
+      "Cerveza, sal, tabasco y lima/limón"
+    ],
+    "answer": 0,
+    "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  },
+  {
+    "category": "Historia",
+    "question": "¿De qué color es el caballo blanco de San Martin?",
+    "options": [
+      "Marron",
+      "Blanco",
+      "Rosado"
+    ],
+    "answer": 1,
+    "explanation": "Noble caballo."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Que son las nubes?",
+    "options": [
+      "Aceite",
+      "Piedras",
+      "Agua"
+    ],
+    "answer": 2,
+    "explanation": "Es agua en estado gaseoso."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Quien es campeon del mundo?",
+    "options": [
+      "Argentina",
+      "Francia",
+      "Brasil"
+    ],
+    "answer": 0,
+    "explanation": "Argentina Campeon!!"
+  },
+  {
+    "category": "Cine",
+    "question": "¿En que peli actuo Leo Di Caprio?",
+    "options": [
+      "Titanic 2",
+      "La bella y la bestia",
+      "Titanic"
+    ],
+    "answer": 2,
+    "explanation": "Jack podia subirse al ropero y salvarse."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Cual es un color primario?",
+    "options": [
+      "rojo",
+      "verde",
+      "violeta"
+    ],
+    "answer": 0,
+    "explanation": "Buen color."
+  }
+]
